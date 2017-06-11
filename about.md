@@ -26,15 +26,14 @@ I am open to any kind of project related to my area of expertise.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>2FA Captive Portal [Ventuz]</li>
+	<li>malware tracker [Vigil]</li>
 </ul>
 
 <h2>Certifications</h2>
 
 <ul>
-	<li><a href="https://redhatcom">RHCE</a></li>
-	<li><a href="https://redhatcom">RHCSA</a></li>
-	<li><a href="">SLAE[32]</a></li>
+	<li>RHCE</li>
+	<li>RHCSA</li>
+	<li>SLAE[32]</li>
 </ul>
