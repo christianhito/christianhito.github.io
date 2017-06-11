@@ -14,10 +14,11 @@ layout: page
 	<li>C/C++ programming</li>
 	<li>metasploit</li>
 	<li>Assembly x86</li>
-	<li>Python - bash</li>
+	<li>Python scripting</li>
+	<li>Bash shell scripting</li>
 	<li>VMware ESXi</li>
-	<li>Apache - OpenSSL</li>
-	<li>Postfix - LDAP - OpenSSH - OpenVPN</li>
+	<li>Open[SSH-VPN-SSL]</li>
+	<li>Postfix</li>
 </ul>
 
 
