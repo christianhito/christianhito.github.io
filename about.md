@@ -23,12 +23,6 @@ I am open to any kind of project related to my area of expertise.</p>
 	<li>Postfix - LDAP - OpenSSH</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li>2FA Captive Portal [Ventuz]</li>
-	<li>malware tracker [Vigil]</li>
-</ul>
 
 <h2>Certifications</h2>
 
