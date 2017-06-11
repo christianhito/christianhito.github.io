@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Blocking FaceBook Access on Intranet"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -18,14 +18,14 @@ description: Markdown summary with different options
 
 You can pick as item to see how to apply in markdown.
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+#### Walktrough
+- [The story](#evidence)
+- [China](#side-by-side)
+- [The Linux guy](#star)
+- [First attempt](#especial-breaker)
+- [Final round](#spoiler)
 
-#### External Elements
+#### External links
 - [Gist](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
