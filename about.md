@@ -4,23 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Linux sysadmin and security researcher. I am from a French spoken country, i learned English in India and my favorite [scripting] languages are python, ruby, c, bash and assembly x86. 
-I am currently working with the local government as a Linux sysadmin and security researcher. I am an active member of the open source community and I try harder to preach the Linux gospel whenever I meet a heretic.
-I am open to any kind of project related to my area of expertise.</p>
+<p>I am Linux sysadmin and security researcher currently working with the local government, I am an active member of the open source community and I try harder to preach the Linux gospel whenever I meet a heretic.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>OSINT</li>
-	<li>tcpdump - tshark - wireshark</li>
-	<li>MySql - PostgreSql</li>
-	<li>C programming</li>
+	<li>packets analysis</li>
+	<li>C/C++ programming</li>
 	<li>metasploit</li>
 	<li>Assembly x86</li>
-	<li>Python</li>
-	<li>iSCSI</li>
+	<li>Python - bash</li>
+	<li>VMware ESXi</li>
 	<li>Apache - OpenSSL</li>
-	<li>Postfix - LDAP - OpenSSH</li>
+	<li>Postfix - LDAP - OpenSSH - OpenVPN</li>
 </ul>
 
 
