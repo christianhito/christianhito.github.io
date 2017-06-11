@@ -4,27 +4,23 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exerdeserunt mollit anim id est laborum.</p>
+<p>I am Linux sysadmin and security researcher. I am from a French spoken country, i learned English in India and my favorite [scripting] languages are python, ruby, c, bash and assembly x86. 
+I am currently working with the local government as a Linux sysadmin and security researcher. I am an active member of the open source community and I try harder to preach the Linux gospel whenever I meet a heretic.
+I am open to any kind of project related to my area of expertise.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>OSINT</li>
+	<li>tcpdump - tshark - wireshark</li>
+	<li>MySql - PostgreSql</li>
+	<li>C programming</li>
+	<li>metasploit</li>
+	<li>Assembly x86</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>iSCSI</li>
+	<li>Apache - OpenSSL</li>
+	<li>Postfix - LDAP - OpenSSH</li>
 </ul>
 
 <h2>Projects</h2>
@@ -33,4 +29,12 @@ quis nostrud exerdeserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
+
+<h2>Certifications</h2>
+
+<ul>
+	<li><a href="https://redhatcom">RHCE</a></li>
+	<li><a href="https://redhatcom">RHCSA</a></li>
+	<li><a href="">SLAE[32]</a></li>
 </ul>
