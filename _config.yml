@@ -21,7 +21,7 @@ url: https://christianhito.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-100838040-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -50,15 +50,15 @@ github: christianhito
 # vimeo: myvimeo
 email: hitowabi@gmail.com
 
-authors:
-    johndoe:
-        name: christian HITO
-        bio: A curious linux sysadmin
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: ahmeshito
+#authors:
+ #   johndoe:
+  #      name: christian HITO
+   #     bio: A curious linux sysadmin
+    #    external-image: false
+     #   picture: assets/images/profile.jpg
+      #  twitter: ahmeshito
 # do you want a larger site? change the option below
-options: large # | default: normal
+# options: large  | default: normal
 # normal = 560px / large = 810px
 width: normal
 
