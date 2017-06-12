@@ -18,6 +18,12 @@ layout: page
 	<li>Bash shell scripting</li>
 	<li>VMware ESXi</li>
 	<li>Open[SSH-VPN-SSL]</li>
+	<li>Apache</li>
+	<li>Samba</li>
+	<li>ISCi</li>
+	<li>Vsftpd</li>
+	<li>Squid</li>
+	<li>Asterix</li>
 	<li>Postfix</li>
 </ul>
 
