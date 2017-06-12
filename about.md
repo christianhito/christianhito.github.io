@@ -4,15 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Linux sysadmin and security researcher currently working with the local government, I am an active member of the open source community and I try harder to preach the Linux gospel whenever I meet a heretic.</p>
+<p>I am a Linux sysadmin and security researcher currently working with the local government. I am an active member of the open source community and i try harder to preach the Linux gospel whenever I meet heretics.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>OSINT</li>
-	<li>packets analysis</li>
-	<li>C/C++ programming</li>
-	<li>metasploit</li>
+	<li>Packets Analysis</li>
+	<li>C/C++ Programming</li>
+	<li>Metasploit</li>
 	<li>Assembly x86</li>
 	<li>Python scripting</li>
 	<li>Bash shell scripting</li>
