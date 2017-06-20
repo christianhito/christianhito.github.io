@@ -10,17 +10,15 @@ layout: page
 
 <ul class="skill-list">
 	<li>OSINT</li>
-	<li>Packets Analysis</li>
 	<li>C/C++ Programming</li>
-	<li>Metasploit</li>
 	<li>Assembly x86</li>
 	<li>Python scripting</li>
 	<li>Bash shell scripting</li>
 	<li>VMware ESXi</li>
+	<li>Citrix XENserver</li>
 	<li>Open[SSH-VPN-SSL]</li>
 	<li>Apache</li>
 	<li>Samba</li>
-	<li>ISCi</li>
 	<li>Vsftpd</li>
 	<li>Squid</li>
 	<li>Asterix</li>
