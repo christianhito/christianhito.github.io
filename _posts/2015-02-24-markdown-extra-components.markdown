@@ -20,7 +20,7 @@ Here is the story, i am a curious linux sysadmin working for a governemental ent
 
 ## Intro
 
-We LOVE GOOGLE, so we decided to walk down the path of the shadow of death with an OpenSource paradigm. First thing first, the ROUTER ! We were imposed to find something open with a good and big community. Luckly for us google gave us nothing else than the almighty #PFsesnse.
+We LOVE GOOGLE, so we decided to walk down the path of the shadow of death with an OpenSource paradigm. First thing first, the ROUTER ! We were imposed to find something open with a good and big community. Luckly for us google gave us nothing else than the almighty [PFsesnse](#PFsense).
 
 ## PFsense 
 
