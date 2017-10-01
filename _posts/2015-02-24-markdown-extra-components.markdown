@@ -16,11 +16,13 @@ description: Markdown summary with different options
 
 ## Summary:
 
-Here is the story, my boss asked me if is it possible for me to block access to certain websites in particular socials networks websites within our intranet. Well, obviously as a linux sysadmin, i said YES WE CAN. However, i remember one day we tried hard with our mikrotik router to block facebook access in our LAN. So, confirming to the boss it was a realy huge challenge to overcome for the IT departement and i. 
+Here is the story, i am a curious linux sysadmin working for a governemental entity in Africa. Lastly, my boss asked me if it is possible for the IT departement and i to block access to certain websites in particular socials networks websites within our intranet. Well, obviously as a linux sysadmin, i said YES WE CAN. However, i remember one day we tried hard with our mikrotik router to block facebook access in our LAN. So, confirming to the boss that we can do it was a realy huge challenge to overcome for the IT departement and i. 
 
-## Step 1
+## Intro
 
-We decided to walk the path of the shadow of death with an OpenSource paradigm. First thing first. The ROUTER ! We were imposed to find something open with a good community for this case we found the nothing else than the almighty PFsesnse. PFsense will serve for a router and firewall. 
+We LOVE GOOGLE, so we decided to walk down the path of the shadow of death with an OpenSource paradigm. First thing first, the ROUTER ! We were imposed to find something open with a good and big community. Luckly for us google gave us nothing else than the almighty #PFsesnse.
+
+## PFsense 
 
 #### Especial Elements
 - [Evidence](#evidence)
