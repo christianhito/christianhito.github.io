@@ -71,7 +71,7 @@ Like the [Medium](https://medium.com/) component.
 {% highlight html %}
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="../assets/images/before.jpg" alt="Alt Text">
+        <img class="image" src="../assets/images/before_network.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
