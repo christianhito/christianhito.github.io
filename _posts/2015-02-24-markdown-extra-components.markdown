@@ -15,14 +15,27 @@ description: Markdown summary with different options
 ---
 
 ## Summary:
-
 Here is the story, i am a curious linux sysadmin working for a governemental entity in Africa. Lastly, my boss asked me if it is possible for the IT departement and i to block access to certain websites in particular socials networks websites within our intranet. Well, obviously as a linux sysadmin, i said YES WE CAN. However, i remember one day we tried hard with our mikrotik router to block facebook access in our LAN. So, confirming to the boss that we can do it was a realy huge challenge to overcome for the IT departement and i. 
 
-## Intro
 
+
+## Intro:
 We LOVE GOOGLE, so we decided to walk down the path of the shadow of death with an OpenSource paradigm. First thing first, the ROUTER ! We were imposed to find something open with a good and big community. Luckly for us google gave us nothing else than the almighty [PFsesnse](#PFsense).
 
+
+
 ## PFsense 
+
+As by the pfsense's website ,pfSense is defined as a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more (https://www.pfsense.org). Also, pfsense has a series of packages wich make pfsense a very great firewall and router. Those packages can be installed direclty a the pfsense package manager. for more information about the pfsense package manager and others, please ask GOOGLE. In our case in order to block facbook, we found a very unique and awesome package called [PFblocker](#PFblocker) by ... 
+
+
+## STEP 1
+We were in the obligation to change our LAN configuration, wimply by removing the MIKROTIK for a physical hardware where will be installed the pfsense system. Here our configuration after and before : 
+
+
+
+
+
 
 #### Especial Elements
 - [Evidence](#evidence)
